@@ -1,0 +1,2 @@
+# Enter an experiment number to restrict GUI options to that experiment.
+experiment=

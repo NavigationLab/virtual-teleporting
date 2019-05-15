@@ -115,28 +115,33 @@ public class LaserPointer : MonoBehaviour
         // TODO: really should just be in a separate script for each scene when you have time to refactor
         if (GameSettings.env == "Field")
         {
-            GameObject.Find("Landmarks").SetActive(GameSettings.landmarks);
+            if (GameObject.Find("Landmarks") != null)
+                GameObject.Find("Landmarks").SetActive(GameSettings.landmarks);
             if (GameSettings.fence_presence) {
                 switch (GameSettings.fence_shape)
                 {
                     case "square":
                         GameObject.Find("Square Fence").SetActive(true);
-                        GameObject.Find("Round Fence").SetActive(false);
+                        if (GameObject.Find("Round Fence") != null)
+                            GameObject.Find("Round Fence").SetActive(false);
                         break;
                     case "round":
                         GameObject.Find("Round Fence").SetActive(true);
-                        GameObject.Find("Square Fence").SetActive(false);
+                        if (GameObject.Find("Square Fence") != null)
+                            GameObject.Find("Square Fence").SetActive(false);
                         break;
                     default:
                         MessageBox.Show(Do_Nothing,
-                                        "Error: Invalid Fence Selection.\nLaserPointer.cs Line 133.",
+                                        "Error: Invalid Fence Selection.\nLaserPointer.cs Line 135.",
                                         "Invalid Fence",
                                         MessageBoxButtons.OK);
                         return;
                 }
             } else {
-                GameObject.Find("Square Fence").SetActive(false);
-                GameObject.Find("Round Fence").SetActive(false);
+                if (GameObject.Find("Square Fence") != null)
+                    GameObject.Find("Square Fence").SetActive(false);
+                if (GameObject.Find("Round Fence") != null)
+                    GameObject.Find("Round Fence").SetActive(false);
             }
         }
 

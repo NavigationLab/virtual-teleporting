@@ -36,7 +36,7 @@ public class GameSettings : MonoBehaviour {
 
     // Scene configuration variables. Having these separate from the Menu defaults allows
     // me to set a default environment and configuration for debugging
-    public static string env = "Training";
+    public static string env = "Field";
     public static bool landmarks = true;
     public static bool fence_presence = true;
     public static string fence_shape = "square";
