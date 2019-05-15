@@ -1,0 +1,71 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<HTML><HEAD></HEAD><BODY>
+<OBJECT type="text/site properties">
+<param name="FrameName" value="right">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="MessageBox Documentation"><param name="Local" value="index.html"><param name="ImageNumber" value="11"></OBJECT>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="Packages"><param name="ImageNumber" value="1"></OBJECT>
+  <UL>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="Packages"><param name="Local" value="namespaces.html"><param name="ImageNumber" value="1"></OBJECT>
+    <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="CorruptedSmileStudio.MessageBox"><param name="Local" value="namespace_corrupted_smile_studio_1_1_message_box.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="MessageItem"><param name="Local" value="class_corrupted_smile_studio_1_1_message_box_1_1_message_item.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="DialogResult"><param name="Local" value="namespace_corrupted_smile_studio_1_1_message_box.html#a2705f358103683273a457aa64342d27c"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="MessageBoxButtons"><param name="Local" value="namespace_corrupted_smile_studio_1_1_message_box.html#ac35ad893354c9999fd080906f462c0c1"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="MessageBoxDefaultButton"><param name="Local" value="namespace_corrupted_smile_studio_1_1_message_box.html#a772221254260da1d28526f38742b086d"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="MessageBoxIcon"><param name="Local" value="namespace_corrupted_smile_studio_1_1_message_box.html#aa66d8e82aa7c79ebcb2a685b6b74637d"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="MessageCallback"><param name="Local" value="namespace_corrupted_smile_studio_1_1_message_box.html#a90bbf1f41d97d18889eca73d1ec15b32"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="Package Functions"><param name="Local" value="namespacemembers.html"><param name="ImageNumber" value="11"></OBJECT>
+    <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="All"><param name="Local" value="namespacemembers.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Functions"><param name="Local" value="namespacemembers_func.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Enumerations"><param name="Local" value="namespacemembers_enum.html"><param name="ImageNumber" value="11"></OBJECT>
+    </UL>
+  </UL>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="Classes"><param name="ImageNumber" value="1"></OBJECT>
+  <UL>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="Class List"><param name="Local" value="annotated.html"><param name="ImageNumber" value="1"></OBJECT>
+    <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="ExampleScript"><param name="Local" value="class_example_script.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="MessageBox"><param name="Local" value="class_message_box.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Show"><param name="Local" value="class_message_box.html#aba18c9892485b77d9bb7a39d8f905bf3"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Show"><param name="Local" value="class_message_box.html#a19180e46471811060c8f745dcf162016"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Show"><param name="Local" value="class_message_box.html#af33ba0e14c7fe5f5f859de860c104873"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Show"><param name="Local" value="class_message_box.html#a3ee12dd076e41dbc44de1484987f0d0c"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Show"><param name="Local" value="class_message_box.html#a1d709adb2ed06cffbc71cb00782f2dc0"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="dontDestroy"><param name="Local" value="class_message_box.html#a24f80374213215dd8cb2d8c512bbd7c8"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="error"><param name="Local" value="class_message_box.html#a720476efa52442809ed8b6c31b15e783"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="info"><param name="Local" value="class_message_box.html#a866e1939aee5122f55d5529e7656b76c"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="messageBoxRect"><param name="Local" value="class_message_box.html#a9d51c1bec1287ea1a607250241ec4e50"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="skin"><param name="Local" value="class_message_box.html#a3047fcef462cdebc82e3fd4f28b387c3"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="warning"><param name="Local" value="class_message_box.html#ac5eeafbd5de9349bf1d4062fc8c54139"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="CorruptedSmileStudio.MessageBox.MessageItem"><param name="Local" value="class_corrupted_smile_studio_1_1_message_box_1_1_message_item.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="MessageItem"><param name="Local" value="class_corrupted_smile_studio_1_1_message_box_1_1_message_item.html#a78cd6c13006325083b895cc9a0bf6597"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="MessageItem"><param name="Local" value="class_corrupted_smile_studio_1_1_message_box_1_1_message_item.html#af1f99f6ec94a98522e8f3ba731c6df35"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="buttons"><param name="Local" value="class_corrupted_smile_studio_1_1_message_box_1_1_message_item.html#a276d0407b7e5ba21b178cad311366fed"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="callback"><param name="Local" value="class_corrupted_smile_studio_1_1_message_box_1_1_message_item.html#a3cdbe9329286832198b3f5f9d5a29a10"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="caption"><param name="Local" value="class_corrupted_smile_studio_1_1_message_box_1_1_message_item.html#af92f06ec342a1c9b07c269c073910269"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="defaultButton"><param name="Local" value="class_corrupted_smile_studio_1_1_message_box_1_1_message_item.html#a9098f5b24ad7a5efef8665272fac916b"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="message"><param name="Local" value="class_corrupted_smile_studio_1_1_message_box_1_1_message_item.html#a3e5b0f28924912de113a4645202e852f"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="Class Index"><param name="Local" value="classes.html"><param name="ImageNumber" value="1"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="Class Members"><param name="Local" value="functions.html"><param name="ImageNumber" value="1"></OBJECT>
+    <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="All"><param name="Local" value="functions.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Functions"><param name="Local" value="functions_func.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Variables"><param name="Local" value="functions_vars.html"><param name="ImageNumber" value="11"></OBJECT>
+    </UL>
+  </UL>
+</UL>
+</BODY>
+</HTML>
