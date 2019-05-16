@@ -3,7 +3,7 @@
 ### Summary
 Teleporting is a popular interface to allow virtual reality users to explore environments that are larger than the available walking space. The research team developed the three virtual environments enclosed in this project as the basis of five experiments to evaluate the spatial cognitive consequences of teleporting, and to identify environmental cues that could mitigate those costs.
 
-Experiment demonstration videos, data, and other materials related to these experiments may be found [here](https://osf.io/m4zfv/). The complete results of this work and implications for VR navigation design will be published in the near future.
+Experiment demonstration videos, data, and other materials related to these experiments may be found [here](https://osf.io/m4zfv/). A talk describing the experiments and findings is available on [YouTube](https://www.youtube.com/watch?v=RcKFF0xWZl0). The complete results of this work and implications for VR navigation design will be published in the near future.
 
 ### The Experimental Task 
 Experimenters used the application to lead participants through a [triangle completion task](https://books.google.com/books?id=zN_WAgAAQBAJ&pg=PA86) by traversing two outbound path legs before pointing before to the unmarked path origin. Locomotion was performed via one of three methods:
